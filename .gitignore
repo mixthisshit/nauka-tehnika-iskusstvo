@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# JetBrains IDEs
+.idea/
+
+# editor backups
+*.swp
+*~

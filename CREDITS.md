@@ -1,0 +1,69 @@
+# Источники изображений
+
+Все изображения скачаны с Wikimedia Commons. Картины XIX&nbsp;века находятся в общественном достоянии (public domain) в силу истечения срока авторского права. Фотографии XIX&nbsp;века (портреты Дагера, Тальбота, Мейбриджа, вокзал Сен-Лазар, серия Мейбриджа) — также public domain.
+
+Формат записи: `файл — Автор. Название (год). Wikimedia Commons.`
+
+## Главная
+
+- `img/monet-impression-sunrise.jpg` — Клод Моне. «Впечатление. Восход солнца» (1872). https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg
+
+## I — Промышленная революция
+
+- `img/turner-rain-steam-speed.jpg` — Уильям Тёрнер. «Дождь, пар и скорость» (1844). https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg
+- `img/photo-gare-saint-lazare.jpg` — Вокзал Сен-Лазар, Париж. Архивная фотография. https://commons.wikimedia.org/wiki/File:Gare_de_Paris-Saint-Lazare_001.jpg
+- `img/monet-gare-saint-lazare.jpg` — Клод Моне. «Вокзал Сен-Лазар» (1877). https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg
+- `img/manet-le-chemin-de-fer.jpg` — Эдуард Мане. «Железная дорога» (1873). https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg
+- `img/caillebotte-pont-de-europe.jpg` — Гюстав Кайботт. «Мост Европы» (1876). https://commons.wikimedia.org/wiki/File:Caillebotte-PontdeL%27Europe-Geneva.jpg
+- `img/pissarro-lordship-lane.jpg` — Камиль Писсарро. «Lordship Lane Station, Dulwich» (1871). https://commons.wikimedia.org/wiki/File:Pissarro_-_Lordship_Lane_Station,_Dulwich_(1871).jpg
+- `img/degas-races-countryside.jpg` — Эдгар Дега. «Скачки в провинции» (1869). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg
+
+## II — Закон Шеврёля
+
+- `img/chevreul-portrait.jpg` — Портрет Мишеля Эжена Шеврёля. https://commons.wikimedia.org/wiki/File:Michel_Eug%C3%A8ne_Chevreul_2.jpg
+
+## III — Свет и оптика
+
+- `img/monet-water-lilies-reflections.jpg` — Клод Моне. «Кувшинки. Отражения облаков на пруду». https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg
+- `img/monet-rouen-cathedral-1894.jpg` — Клод Моне. «Руанский собор. Утренний эффект» (1894). https://commons.wikimedia.org/wiki/File:RouenCathedral_Monet_1894.jpg
+- `img/monet-rouen-cathedral-sunset.jpg` — Клод Моне. «Руанский собор. Фасад. Закат». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Sunset).JPG
+- `img/monet-rouen-cathedral-sunlight.jpg` — Клод Моне. «Руанский собор. Западный фасад. Солнечный свет». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_West_Facade,_Sunlight.jpg
+
+## IV — Фотография
+
+- `img/daguerre-portrait.jpg` — Портрет Луи Дагера. https://commons.wikimedia.org/wiki/File:Louis_Daguerre_2.jpg
+- `img/talbot-portrait.jpg` — Портрет У.&nbsp;Г.&nbsp;Ф.&nbsp;Тальбота (фотограф Антуан Клоде). https://commons.wikimedia.org/wiki/File:Talbot_by_Claudet.jpg
+- `img/muybridge-portrait.jpg` — Эдвард Мейбридж (хронофотографическая иллюстрация). https://commons.wikimedia.org/wiki/File:Optic_Projection_fig_411.jpg
+- `img/muybridge-horse-in-motion.jpg` — Эдвард Мейбридж. «Лошадь в движении» (1878). https://commons.wikimedia.org/wiki/File:The_Horse_in_motion._%22Abe_Edgington%22_LOC_13624627695.jpg
+- `img/degas-absinthe.jpg` — Эдгар Дега. «В кафе» («Абсент»). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg
+- `img/degas-dance-class.jpg` — Эдгар Дега. «Танцевальный класс» (1874). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_La_Classe_de_danse.jpg
+- `img/degas-after-the-bath.jpg` — Эдгар Дега. «После ванны, женщина вытирается» (1884). https://commons.wikimedia.org/wiki/File:After_the_Bath,_Woman_drying_herself_-_Edgar_Degas_-_National_Gallery.jpg
+- `img/degas-blue-dancers.jpg` — Эдгар Дега. «Голубые танцовщицы». https://commons.wikimedia.org/wiki/File:Edgar_Germain_Hilaire_Degas_076.jpg
+
+## V — Импрессионизм
+
+- `img/surikov-boyarynya-morozova.jpg` — В.&nbsp;И.&nbsp;Суриков. «Боярыня Морозова» (1887). https://commons.wikimedia.org/wiki/File:Vasily_Surikov_-_Boyarynya_Morozova_-_Google_Art_Project.jpg
+- `img/monet-haystacks.jpg` — Клод Моне. «Стога сена (конец лета)». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Stacks_of_Wheat_(End_of_Summer)_-_1985.1103_-_Art_Institute_of_Chicago.jpg
+- `img/renoir-dance-at-bougival.jpg` — Пьер Огюст Ренуар. «Танцы в Буживале» (1883). https://commons.wikimedia.org/wiki/File:Dance-At-Bougival.jpg
+- `img/renoir-moulin-de-la-galette.jpg` — Пьер Огюст Ренуар. «Бал в Мулен де ла Галетт» (1876). https://commons.wikimedia.org/wiki/File:Renoir,_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette,_1876.jpg
+- `img/renoir-jeanne-samary.png` — Пьер Огюст Ренуар. «Портрет Жанны Самари» (1877). https://commons.wikimedia.org/wiki/File:Jeanna_Samary-Renoir.png
+- `img/renoir-boating-party.jpg` — Пьер Огюст Ренуар. «Завтрак гребцов» (1880—1881). https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg
+- `img/renoir-girl-with-watering-can.jpg` — Пьер Огюст Ренуар. «Девочка с лейкой» (1876). https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_A_Girl_with_a_Watering_Can_-_Google_Art_Project.jpg
+- `img/pissarro-boulevard-montmartre.jpg` — Камиль Писсарро. «Бульвар Монмартр». https://commons.wikimedia.org/wiki/File:Boulevard_Montmartre.jpg
+- `img/pissarro-avenue-opera.jpg` — Камиль Писсарро. «Авеню Оперы». https://commons.wikimedia.org/wiki/File:Avenue_de_l%27Op%C3%A9ra_Paris.jpg
+- `img/manet-folies-bergere.jpg` — Эдуард Мане. «Бар в Фоли-Бержер» (1882). https://commons.wikimedia.org/wiki/File:%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg
+- `img/manet-luncheon-on-the-grass.jpg` — Эдуард Мане. «Завтрак на траве». https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg
+- `img/manet-olympia.jpg` — Эдуард Мане. «Олимпия». https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_ProjectFXD.jpg
+- `img/manet-boating.jpg` — Эдуард Мане. «В лодке». https://commons.wikimedia.org/wiki/File:Boating_-_%C3%89douard_Manet.jpg
+- `img/morisot-cradle.jpg` — Берта Моризо. «Колыбель». https://commons.wikimedia.org/wiki/File:Berthe_Morisot_008.jpg
+- `img/morisot-woman-at-toilette.jpg` — Берта Моризо. «Женщина за туалетом». https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg
+- `img/cassatt-childs-bath.jpg` — Мэри Кассат. «Купание ребёнка». https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg
+- `img/cassatt-lilacs-window.jpg` — Мэри Кассат. «Сирень в окне». https://commons.wikimedia.org/wiki/File:Mary_Cassat_-_Lilacs_in_a_Window_-_MMA_1997.207.jpg
+
+## Шрифты
+
+- Playfair Display, Source Sans 3 — Google Fonts, лицензия [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
+
+## Обработка
+
+Все изображения уменьшены до 1600&nbsp;px по длинной стороне и пересохранены в JPEG (качество 80) для веба с помощью `sips` (macOS). PNG-файл (портрет Жанны Самари) оставлен в исходном формате.
