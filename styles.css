@@ -351,6 +351,34 @@ blockquote.pull cite{
   font-size:14.5px; color:var(--umber); margin-top:8px; line-height:1.55;
 }
 
+/* Degas horses strip */
+.degas-horses{
+  margin-top:80px;
+  padding-top:36px;
+  border-top:1px solid var(--line);
+}
+.degas-horses h3{margin-bottom:14px;}
+.degas-horses .strip{
+  margin-top:28px;
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap:20px;
+}
+.degas-horses .strip .card .ph{aspect-ratio:4/3;}
+.degas-horses .strip .card .meta{
+  margin-top:10px;
+  font-size:13px;
+  color:var(--umber);
+}
+.degas-horses .strip .card .ttl{
+  font-family:'Playfair Display', serif;
+  font-style:italic;
+  font-size:16px;
+  color:var(--ink);
+  margin-top:2px;
+  line-height:1.25;
+}
+
 /* ============ CHEVREUL ============ */
 .chev-top{
   display:grid;
@@ -385,6 +413,39 @@ blockquote.pull cite{
   font-size:16px;
   color:var(--ink);
   line-height:1.55;
+}
+
+/* chevreul timeline */
+.chev-timeline{
+  margin-top:72px;
+  padding-top:36px;
+  border-top:1px solid var(--line);
+}
+.chev-timeline h3{margin-bottom:14px;}
+.chev-timeline ol.timeline{
+  list-style:none;
+  margin:32px 0 0;
+  padding:0;
+}
+.chev-timeline ol.timeline li{
+  display:grid;
+  grid-template-columns: 110px 1fr;
+  gap:24px;
+  padding:14px 0;
+  border-bottom:1px solid var(--line);
+  align-items:baseline;
+}
+.chev-timeline ol.timeline li:last-child{border-bottom:0;}
+.chev-timeline ol.timeline .yr{
+  font-family:'Playfair Display', serif;
+  font-style:italic;
+  color:var(--terracotta);
+  font-size:17px;
+}
+.chev-timeline ol.timeline .ev{
+  font-size:15.5px;
+  color:var(--ink);
+  line-height:1.6;
 }
 
 .law-block{
@@ -731,11 +792,11 @@ ol.notch li::before{
 .artist .info .works ul li:last-child::after{content:"";}
 .artist .imgs{
   display:grid;
-  grid-template-columns: 1fr 1fr;
-  gap:14px;
+  grid-template-columns: repeat(3, 1fr);
+  gap:12px;
 }
 .artist .imgs .ph{aspect-ratio:4/5;}
-.artist .imgs .ph .ph-inner .ttl{font-size:14px;}
+.artist .imgs .ph .ph-inner .ttl{font-size:13px;}
 
 /* manet predecessor */
 .manet-predecessor{
@@ -767,6 +828,25 @@ ol.notch li::before{
   margin-top:6px;
   line-height:1.4;
 }
+.manet-predecessor .manet-extra{
+  margin-top:48px;
+  padding-top:32px;
+  border-top:1px solid var(--line);
+}
+.manet-predecessor .manet-extra h4{margin-bottom:14px;}
+.manet-predecessor .manet-grid{
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap:20px;
+}
+.manet-predecessor .manet-grid .ph{aspect-ratio:4/5;}
+.manet-predecessor .manet-grid .cap{
+  font-size:13px;
+  color:var(--umber);
+  margin-top:6px;
+  line-height:1.4;
+}
+
 .manet-predecessor .japonisme{
   margin-top:48px;
   padding-top:32px;
@@ -816,8 +896,8 @@ ol.notch li::before{
 .russian .lead p{font-size:16.5px; line-height:1.65; margin:0 0 12px;}
 .russian .gallery{
   display:grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap:32px;
+  grid-template-columns: repeat(4, 1fr);
+  gap:24px;
 }
 .russian .gallery .card .ph{aspect-ratio:4/5;}
 .russian .gallery .card .meta{

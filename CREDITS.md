@@ -17,6 +17,11 @@
 - `img/caillebotte-pont-de-europe.jpg` — Гюстав Кайботт. «Мост Европы» (1876). https://commons.wikimedia.org/wiki/File:Caillebotte-PontdeL%27Europe-Geneva.jpg
 - `img/pissarro-lordship-lane.jpg` — Камиль Писсарро. «Lordship Lane Station, Dulwich» (1871). https://commons.wikimedia.org/wiki/File:Pissarro_-_Lordship_Lane_Station,_Dulwich_(1871).jpg
 - `img/degas-races-countryside.jpg` — Эдгар Дега. «Скачки в провинции» (1869). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg
+- `img/degas-jockeys-before-race.jpg` — Эдгар Дега. «Жокеи перед скачками» (ок. 1878—79). https://commons.wikimedia.org/wiki/File:Degas,_Jockeys_Before_the_Race.jpg
+- `img/degas-before-race.jpg` — Эдгар Дега. «Перед скачками» (ок. 1872). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Before_the_Race_-_Walters_37850.jpg
+- `img/degas-false-start.jpg` — Эдгар Дега. «Старт на скачках» (ок. 1862). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_The_False_Start_-_1982.111.6_-_Yale_University_Art_Gallery.jpg
+- `img/degas-race-horses-landscape.jpg` — Эдгар Дега. «Скаковые лошади в пейзаже» (ок. 1880). https://commons.wikimedia.org/wiki/File:Degas,_Race_Horses_in_a_Landscape.jpg
+- `img/pissarro-pontoise-railway.jpg` — Камиль Писсарро. «Железная дорога в Понтуазе» (1873). https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Le_Pont_Du_Chemin_De_Fer,_Pontoise_(1873).jpg
 
 ## II — Закон Шеврёля
 
@@ -41,6 +46,9 @@
 - `img/degas-dance-class.jpg` — Эдгар Дега. «Танцевальный класс» (1874). https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_La_Classe_de_danse.jpg
 - `img/degas-after-the-bath.jpg` — Эдгар Дега. «После ванны, женщина вытирается» (1884). https://commons.wikimedia.org/wiki/File:After_the_Bath,_Woman_drying_herself_-_Edgar_Degas_-_National_Gallery.jpg
 - `img/degas-blue-dancers.jpg` — Эдгар Дега. «Голубые танцовщицы». https://commons.wikimedia.org/wiki/File:Edgar_Germain_Hilaire_Degas_076.jpg
+- `img/degas-women-ironing.jpg` — Эдгар Дега. «Гладильщицы» (1884). https://commons.wikimedia.org/wiki/File:Woman_Ironing_-_Edgar_Degas.jpg
+- `img/degas-ballet-rehearsal.jpg` — Эдгар Дега. «Репетиция балета на сцене». https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg
+- `img/degas-etoile.jpg` — Эдгар Дега. «Звезда» (L'Étoile). https://commons.wikimedia.org/wiki/File:Degas.etoile.jpg
 
 ## V — Импрессионизм
 
@@ -66,6 +74,20 @@
 - `img/morisot-woman-at-toilette.jpg` — Берта Моризо. «Женщина за туалетом». https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Woman_at_Her_Toilette_-_1924.127_-_Art_Institute_of_Chicago.jpg
 - `img/cassatt-childs-bath.jpg` — Мэри Кассат. «Купание ребёнка». https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_The_Child%27s_Bath_-_Google_Art_Project.jpg
 - `img/cassatt-lilacs-window.jpg` — Мэри Кассат. «Сирень в окне». https://commons.wikimedia.org/wiki/File:Mary_Cassat_-_Lilacs_in_a_Window_-_MMA_1997.207.jpg
+- `img/monet-dejeuner-1866.jpg` — Клод Моне. «Завтрак на траве» (1866, фрагмент из ГМИИ им. Пушкина). https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Le_D%C3%A9jeuner_sur_l%27herbe_(1866)_-_Pushkin_Museum_%D0%96-3307.jpg
+- `img/monet-hotel-roches-noires.jpg` — Клод Моне. «Отель де Рош-Нуар. Трувиль» (1870). https://commons.wikimedia.org/wiki/File:Claude_Monet_-_H%C3%B4tel_des_roches_noires._Trouville_-_Google_Art_Project.jpg
+- `img/renoir-seine-argenteuil.jpg` — Пьер Огюст Ренуар. «Сена в Аржантее». https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_La_Seine_%C3%A0_Argenteuil.jpg
+- `img/renoir-spring.jpg` — Пьер Огюст Ренуар. «Весна» (1879). https://commons.wikimedia.org/wiki/File:Renoir_-_spring-the-four-seasons-1879.jpg
+- `img/manet-nana.jpg` — Эдуард Мане. «Нана» (1877). https://commons.wikimedia.org/wiki/File:1877_Manet_Nana_anagoria.jpg
+- `img/manet-carnations-clematis.jpg` — Эдуард Мане. «Гвоздики и клематисы в хрустальной вазе» (ок. 1882). https://commons.wikimedia.org/wiki/File:Oeillets_et_cl%C3%A9matite_dans_un_vase_de_cristal_(ca.1882)_-_Edouard_Manet_(Mus%C3%A9e_d%27Orsay,_Paris).jpg
+- `img/manet-on-the-beach.jpg` — Эдуард Мане. «На пляже» (1873). https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_On_the_Beach_-_70.173_-_Detroit_Institute_of_Arts.jpg
+- `img/morisot-hanging-laundry.jpg` — Берта Моризо. «Развешивание стираного белья» (1875). https://commons.wikimedia.org/wiki/File:Berthe_Morisot,_Hanging_the_Laundry_out_to_Dry,_1875,_NGA_66426.jpg
+- `img/morisot-girl-doll.jpg` — Берта Моризо. «Маленькая девочка с куклой». https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Jeune_fille_%C3%A0_la_poup%C3%A9e.jpg
+- `img/cassatt-tea.jpg` — Мэри Кассат. «Чаепитие» (ок. 1880, MFA Boston). https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_The_Tea_-_MFA_Boston_42.178.jpg
+- `img/cassatt-maternal-caress.jpg` — Мэри Кассат. «Материнские ласки» (ок. 1891). https://commons.wikimedia.org/wiki/File:Mary_Cassatt,_Maternal_Caress,_c._1891,_NGA_1068.jpg
+- `img/pissarro-knokke-windmill.jpg` — Камиль Писсарро. «Ветряная мельница в Кноке» (1894). https://commons.wikimedia.org/wiki/File:Pissarro_-_windmill-at-knokke-belgium-1894.jpg
+- `img/pissarro-sunset-eragny.jpg` — Камиль Писсарро. «Закат в Эраньи». https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Sunset_at_Eragny_-_Google_Art_Project.jpg
+- `img/grabar-february-azure.jpg` — Игорь Грабарь. «Февральская лазурь» (1904, Третьяковская галерея). https://commons.wikimedia.org/wiki/File:Grabar_February_azure_1904_gtg.jpg
 
 ## Шрифты
 

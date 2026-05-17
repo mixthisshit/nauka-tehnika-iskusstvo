@@ -11,8 +11,8 @@ const masters = [
   {artist:"Гюстав Кайботт", yr:"1876", ttl:"«Мост Европы»",
     img:"img/caillebotte-pont-de-europe.jpg",
     desc:"Жёсткая геометрия стальных ферм противопоставлена фигурам людей — эстетика индустриального конструктивизма."},
-  {artist:"Камиль Писсарро", yr:"1871", ttl:"«Lordship Lane Station, Dulwich»",
-    img:"img/pissarro-lordship-lane.jpg",
+  {artist:"Камиль Писсарро", yr:"1873", ttl:"«Железная дорога в Понтуазе»",
+    img:"img/pissarro-pontoise-railway.jpg",
     desc:"Паровоз органично вписан в сельский пейзаж — техника становится частью природы."},
   {artist:"Эдгар Дега", yr:"1869", ttl:"«Скачки в провинции»",
     img:"img/degas-races-countryside.jpg",
@@ -31,6 +31,23 @@ document.getElementById('mastersGrid').innerHTML = masters.map(m => `
 `).join('');
 
 
+// Degas — horse-race series (pre-industrial subject)
+const degasHorses = [
+  {ttl:"«Жокеи перед скачками»", yr:"ок. 1878—79", img:"img/degas-jockeys-before-race.jpg"},
+  {ttl:"«Перед скачками»", yr:"1872",            img:"img/degas-before-race.jpg"},
+  {ttl:"«Старт на скачках»", yr:"ок. 1862",      img:"img/degas-false-start.jpg"},
+  {ttl:"«Проездка скаковых лошадей»", yr:"ок. 1880", img:"img/degas-race-horses-landscape.jpg"},
+];
+const dh = document.getElementById('degasHorsesGrid');
+if (dh) dh.innerHTML = degasHorses.map(d => `
+  <article class="card">
+    <div class="ph"><img src="${d.img}" alt="Эдгар Дега. ${d.ttl}"></div>
+    <div class="meta">Эдгар Дега · ${d.yr}</div>
+    <div class="ttl">${d.ttl}</div>
+  </article>
+`).join('');
+
+
 const artists = [
   {
     name:"Клод Моне",
@@ -38,6 +55,8 @@ const artists = [
     bio:"Один из основателей импрессионизма. Самый последовательный и плодовитый сторонник философии импрессионизма; апологет света, воздуха и пленэрной живописи. Термин «импрессионизм» происходит от названия его картины «Впечатление. Восходящее солнце» (1872).",
     works:[
       {t:"Впечатление. Восход солнца", img:"img/monet-impression-sunrise.jpg"},
+      {t:"Завтрак на траве (1866)", img:"img/monet-dejeuner-1866.jpg"},
+      {t:"Отель де Рош-Нуар. Трувиль (1870)", img:"img/monet-hotel-roches-noires.jpg"},
       {t:"Кувшинки", img:"img/monet-water-lilies-reflections.jpg"},
       {t:"Стога сена", img:"img/monet-haystacks.jpg"},
       {t:"Руанский собор", img:"img/monet-rouen-cathedral-1894.jpg"},
@@ -54,7 +73,10 @@ const artists = [
       {t:"Бал в Мулен де ла Галетт", img:"img/renoir-moulin-de-la-galette.jpg"},
       {t:"Жанна Самари", img:"img/renoir-jeanne-samary.png"},
       {t:"Завтрак гребцов", img:"img/renoir-boating-party.jpg"},
+      {t:"Сена в Аржантее (1888)", img:"img/renoir-seine-argenteuil.jpg"},
+      {t:"Весна (1879)", img:"img/renoir-spring.jpg"},
       {t:"Девочка с лейкой", img:"img/renoir-girl-with-watering-can.jpg"},
+      {t:"Женщина в пейзаже"},
     ]
   },
   {
@@ -64,10 +86,12 @@ const artists = [
     works:[
       {t:"Голубые танцовщицы", img:"img/degas-blue-dancers.jpg"},
       {t:"Танцевальный класс", img:"img/degas-dance-class.jpg"},
+      {t:"Репетиция балета на сцене", img:"img/degas-ballet-rehearsal.jpg"},
+      {t:"Звезда (L'Étoile)", img:"img/degas-etoile.jpg"},
       {t:"После ванны", img:"img/degas-after-the-bath.jpg"},
+      {t:"Гладильщицы", img:"img/degas-women-ironing.jpg"},
       {t:"Абсент", img:"img/degas-absinthe.jpg"},
-      {t:"Звезда"},
-      {t:"Гладильщицы"},
+      {t:"Урок танцев"},
     ]
   },
   {
@@ -76,9 +100,11 @@ const artists = [
     bio:"Один из первых и наиболее последовательных представителей импрессионизма и неоимпрессионизма. Единственный участник всех восьми групповых выставок импрессионистов с 1874 по 1886 год.",
     works:[
       {t:"Бульвар Монмартр", img:"img/pissarro-boulevard-montmartre.jpg"},
-      {t:"Lordship Lane Station", img:"img/pissarro-lordship-lane.jpg"},
       {t:"Авеню Оперы. Солнечное зимнее утро", img:"img/pissarro-avenue-opera.jpg"},
-      {t:"Ветряная мельница в Кноке"},
+      {t:"Железная дорога в Понтуазе (1873)", img:"img/pissarro-pontoise-railway.jpg"},
+      {t:"Lordship Lane Station, Dulwich", img:"img/pissarro-lordship-lane.jpg"},
+      {t:"Ветряная мельница в Кноке", img:"img/pissarro-knokke-windmill.jpg"},
+      {t:"Закат в Эраньи", img:"img/pissarro-sunset-eragny.jpg"},
     ]
   },
   {
@@ -99,8 +125,8 @@ const artists = [
     works:[
       {t:"Колыбель", img:"img/morisot-cradle.jpg"},
       {t:"Женщина за туалетом", img:"img/morisot-woman-at-toilette.jpg"},
-      {t:"Развешивание стираного белья"},
-      {t:"Маленькая девочка с куклой"},
+      {t:"Развешивание стираного белья", img:"img/morisot-hanging-laundry.jpg"},
+      {t:"Маленькая девочка с куклой", img:"img/morisot-girl-doll.jpg"},
     ]
   },
   {
@@ -110,8 +136,8 @@ const artists = [
     works:[
       {t:"Купание ребёнка", img:"img/cassatt-childs-bath.jpg"},
       {t:"Сирень в окне", img:"img/cassatt-lilacs-window.jpg"},
-      {t:"Материнские ласки"},
-      {t:"Чаепитие"},
+      {t:"Чаепитие", img:"img/cassatt-tea.jpg"},
+      {t:"Материнские ласки", img:"img/cassatt-maternal-caress.jpg"},
     ]
   },
 ];
@@ -128,7 +154,7 @@ document.getElementById('artistGrid').innerHTML = artists.map((a) => `
       </div>
     </div>
     <div class="imgs">
-      ${a.works.slice(0,4).map((w) => `
+      ${a.works.slice(0,8).map((w) => `
         <div class="ph">
           ${w.img
             ? `<img src="${w.img}" alt="${a.name}. ${w.t}">`
