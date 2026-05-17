@@ -25,9 +25,11 @@
 ## III — Свет и оптика
 
 - `img/monet-water-lilies-reflections.jpg` — Клод Моне. «Кувшинки. Отражения облаков на пруду». https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg
+- `img/lefranc-paint-tubes.jpg` — Коробка Lefranc с тюбиками масляной краски и бутылочкой лака (конец XIX&nbsp;в.). Принадлежала Жану Мулену. https://commons.wikimedia.org/wiki/File:Bo%C3%AEte_Lefranc_contenant_quatre_tubes_de_peinture_et_une_bouteille_de_vernis_ayant_appartenu_%C3%A0_Jean_Moulin,_2018.17.12.1.jpg
 - `img/monet-rouen-cathedral-1894.jpg` — Клод Моне. «Руанский собор. Утренний эффект» (1894). https://commons.wikimedia.org/wiki/File:RouenCathedral_Monet_1894.jpg
 - `img/monet-rouen-cathedral-sunset.jpg` — Клод Моне. «Руанский собор. Фасад. Закат». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Sunset).JPG
 - `img/monet-rouen-cathedral-sunlight.jpg` — Клод Моне. «Руанский собор. Западный фасад. Солнечный свет». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_West_Facade,_Sunlight.jpg
+- `img/monet-rouen-harmonie-bleue.jpg` — Клод Моне. «Руанский собор. Гармония синяя». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue.jpg
 
 ## IV — Фотография
 
@@ -42,6 +44,11 @@
 
 ## V — Импрессионизм
 
+- `img/manet-olympia.jpg` — Эдуард Мане. «Олимпия» (1863). https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_ProjectFXD.jpg
+- `img/manet-the-fifer.jpg` — Эдуард Мане. «Флейтист» (1866). https://commons.wikimedia.org/wiki/File:Manet,_Edouard_-_Young_Flautist,_or_The_Fifer,_1866_(2).jpg
+- `img/manet-portrait-zola.jpg` — Эдуард Мане. «Портрет Эмиля Золя» (1868). https://commons.wikimedia.org/wiki/File:Manet,_Edouard_-_Portrait_of_Emile_Zola.jpg
+- `img/serov-girl-with-peaches.jpg` — Валентин Серов. «Девочка с персиками» (1887). https://commons.wikimedia.org/wiki/File:Walentin_Alexandrowitsch_Serow_Girl_with_Peaches.jpg
+- `img/korovin-chaliapin.jpg` — Константин Коровин. «Портрет Ф. И. Шаляпина» (1921). https://commons.wikimedia.org/wiki/File:Shalyapin_by_Korovin_(1921,_Shalyapin_museum,_Moscow).jpg
 - `img/surikov-boyarynya-morozova.jpg` — В.&nbsp;И.&nbsp;Суриков. «Боярыня Морозова» (1887). https://commons.wikimedia.org/wiki/File:Vasily_Surikov_-_Boyarynya_Morozova_-_Google_Art_Project.jpg
 - `img/monet-haystacks.jpg` — Клод Моне. «Стога сена (конец лета)». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Stacks_of_Wheat_(End_of_Summer)_-_1985.1103_-_Art_Institute_of_Chicago.jpg
 - `img/renoir-dance-at-bougival.jpg` — Пьер Огюст Ренуар. «Танцы в Буживале» (1883). https://commons.wikimedia.org/wiki/File:Dance-At-Bougival.jpg
