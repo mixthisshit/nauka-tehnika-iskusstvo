@@ -35,6 +35,17 @@
 - `img/monet-rouen-cathedral-sunset.jpg` — Клод Моне. «Руанский собор. Фасад. Закат». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Sunset).JPG
 - `img/monet-rouen-cathedral-sunlight.jpg` — Клод Моне. «Руанский собор. Западный фасад. Солнечный свет». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_West_Facade,_Sunlight.jpg
 - `img/monet-rouen-harmonie-bleue.jpg` — Клод Моне. «Руанский собор. Гармония синяя». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue.jpg
+- `img/monet-rouen-harmonie-blanche.jpg` — Клод Моне. «Руанский собор. Гармония белая». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_blanche.jpg
+- `img/monet-rouen-harmonie-bleue-or.jpg` — Клод Моне. «Руанский собор. Гармония синяя и золотая». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Cath%C3%A9drale_de_Rouen._Harmonie_bleue_et_or.jpg
+- `img/monet-rouen-portail-au-soleil.jpg` — Клод Моне. «Руанский собор. Портал на солнце». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_La_Cath%C3%A9drale_de_Rouen,_Le_Portail_au_Soleil.jpg
+- `img/monet-rouen-facade-morning.jpg` — Клод Моне. «Руанский собор. Фасад. Утренний эффект». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG
+- `img/monet-rouen-facade-i.jpg` — Клод Моне. «Руанский собор. Фасад I». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_I.jpg
+- `img/monet-rouen-facade-tour-albane.jpg` — Клод Моне. «Руанский собор. Фасад и башня Альбани». https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_and_Tour_d%27AlbaneI.JPG
+- `img/monet-rouen-grey-pink.jpg` — Клод Моне. «Руанский собор. Закат, симфония в сером и розовом». https://commons.wikimedia.org/wiki/File:Rouen_Cathedral-_Setting_Sun,_Symphony_in_Grey_and_Pink.jpg
+- `img/monet-rouen-effet-de-soleil.jpg` — Клод Моне. «Руанский собор. Эффект солнца, конец дня». https://commons.wikimedia.org/wiki/File:Claude_Monet_032.jpg
+- `img/monet-rouen-portail.jpg` — Клод Моне. «Руанский собор. Портал». https://commons.wikimedia.org/wiki/File:Claude_Monet_La_cath%C3%A9drale_de_Rouen,_le_portail.jpg
+- `img/monet-rouen-portal-vu-de-face.jpg` — Клод Моне. «Руанский собор. Портал — вид анфас». https://commons.wikimedia.org/wiki/File:Claude_Monet,_The_Portal_of_Rouen_Cathedral,_le_Portal_vu_de_face.jpg
+- `img/rouen-cathedral-photo.jpg` — Современная фотография фасада Руанского собора (Place de la Cathédrale). https://commons.wikimedia.org/wiki/File:Rouen_-_Place_de_la_Cath%C3%A9drale_-_View_SE_on_the_Front_of_la_Cath%C3%A9drale_Notre-Dame_de_Rouen_-_Left-_Tour_Saint-Romain,_Right-_Tour_de_Beurre.jpg
 
 ## IV — Фотография
 
@@ -49,6 +60,7 @@
 - `img/degas-women-ironing.jpg` — Эдгар Дега. «Гладильщицы» (1884). https://commons.wikimedia.org/wiki/File:Woman_Ironing_-_Edgar_Degas.jpg
 - `img/degas-ballet-rehearsal.jpg` — Эдгар Дега. «Репетиция балета на сцене». https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg
 - `img/degas-etoile.jpg` — Эдгар Дега. «Звезда» (L'Étoile). https://commons.wikimedia.org/wiki/File:Degas.etoile.jpg
+- `img/degas-photo-renoir-mallarme.jpg` — Эдгар Дега. Фотография Огюста Ренуара и Стефана Малларме (1895). https://commons.wikimedia.org/wiki/File:Auguste_Renoir_et_St%C3%A9phane_Mallarm%C3%A9_-_Photographie_par_Edgar_Degas_1895.jpg
 
 ## V — Импрессионизм
 
