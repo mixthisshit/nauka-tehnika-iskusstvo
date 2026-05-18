@@ -703,43 +703,6 @@ ol.notch li::before{
 }
 .degas .strip .ph{aspect-ratio:4/3;}
 
-.degas-compare{
-  margin-top:64px;
-  padding-top:36px;
-  border-top:1px solid var(--line);
-}
-.degas-compare h4{margin-bottom:14px;}
-.degas-compare .compare-grid{
-  margin-top:28px;
-  display:grid;
-  grid-template-columns: 1fr 1fr;
-  gap:36px;
-}
-.degas-compare figure{margin:0;}
-.degas-compare .ph{aspect-ratio:4/3;}
-.degas-compare figcaption{
-  margin-top:14px;
-  display:flex;
-  flex-direction:column;
-  gap:4px;
-}
-.degas-compare figcaption .lbl{
-  font-family:'Playfair Display', serif;
-  font-style:italic;
-  font-size:14px;
-  color:var(--olive);
-}
-.degas-compare figcaption .ttl{
-  font-family:'Playfair Display', serif;
-  font-style:italic;
-  font-size:19px;
-  color:var(--ink);
-}
-.degas-compare figcaption .meta{
-  font-size:13.5px;
-  color:var(--umber);
-}
-
 /* ============ IMPRESSIONISM ============ */
 .impr-intro{
   display:grid;
