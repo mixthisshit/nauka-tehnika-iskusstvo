@@ -60,6 +60,7 @@
 - `img/degas-women-ironing.jpg` — Эдгар Дега. «Гладильщицы» (1884). https://commons.wikimedia.org/wiki/File:Woman_Ironing_-_Edgar_Degas.jpg
 - `img/degas-ballet-rehearsal.jpg` — Эдгар Дега. «Репетиция балета на сцене». https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg
 - `img/degas-etoile.jpg` — Эдгар Дега. «Звезда» (L'Étoile). https://commons.wikimedia.org/wiki/File:Degas.etoile.jpg
+- `img/degas-photo-ballerina-1.jpg`, `img/degas-photo-ballerina-2.jpg` — Эдгар Дега. Подготовительные фотографии балерин (предоставлены автором проекта).
 
 ## V — Импрессионизм
 
