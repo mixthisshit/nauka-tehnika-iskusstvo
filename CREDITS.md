@@ -100,6 +100,14 @@
 - `img/pissarro-knokke-windmill.jpg` — Камиль Писсарро. «Ветряная мельница в Кноке» (1894). https://commons.wikimedia.org/wiki/File:Pissarro_-_windmill-at-knokke-belgium-1894.jpg
 - `img/pissarro-sunset-eragny.jpg` — Камиль Писсарро. «Закат в Эраньи». https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Sunset_at_Eragny_-_Google_Art_Project.jpg
 - `img/grabar-february-azure.jpg` — Игорь Грабарь. «Февральская лазурь» (1904, Третьяковская галерея). https://commons.wikimedia.org/wiki/File:Grabar_February_azure_1904_gtg.jpg
+- `img/monet-beach-sainte-adresse.jpg` — Клод Моне. «Пляж в Сент-Адрессе» (1867).
+- `img/monet-house-argenteuil.jpg` — Клод Моне. «Дом Моне в Аржантее» (1873).
+- `img/renoir-woman-in-landscape.jpg` — Пьер Огюст Ренуар. «Женщина в пейзаже».
+- `img/degas-dance-lesson.jpg` — Эдгар Дега. «Урок танцев» (ок. 1879).
+- `img/sisley-fontainebleau.jpg` — Альфред Сислей. «Опушка леса в Фонтенбло» (1865).
+- `img/sisley-moret-sur-loing.jpg` — Альфред Сислей. «Море-сюр-Луэн» (ок. 1891).
+- `img/sisley-sevres.jpg` — Альфред Сислей. «Станция в Севре» (1879).
+- `img/sisley-villeneuve-bridge.jpg` — Альфред Сислей. «Мост в Вильнёв-ла-Гарен» (1872).
 
 ## Шрифты
 

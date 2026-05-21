@@ -60,8 +60,8 @@ const artists = [
       {t:"Кувшинки", img:"img/monet-water-lilies-reflections.jpg"},
       {t:"Стога сена", img:"img/monet-haystacks.jpg"},
       {t:"Руанский собор", img:"img/monet-rouen-cathedral-1894.jpg"},
-      {t:"Пляж в Сент-Адрессе"},
-      {t:"Дом Моне в Аржантее"},
+      {t:"Пляж в Сент-Адрессе (1867)", img:"img/monet-beach-sainte-adresse.jpg"},
+      {t:"Дом Моне в Аржантее (1873)", img:"img/monet-house-argenteuil.jpg"},
     ]
   },
   {
@@ -76,7 +76,7 @@ const artists = [
       {t:"Сена в Аржантее (1888)", img:"img/renoir-seine-argenteuil.jpg"},
       {t:"Весна (1879)", img:"img/renoir-spring.jpg"},
       {t:"Девочка с лейкой", img:"img/renoir-girl-with-watering-can.jpg"},
-      {t:"Женщина в пейзаже"},
+      {t:"Женщина в пейзаже", img:"img/renoir-woman-in-landscape.jpg"},
     ]
   },
   {
@@ -91,7 +91,7 @@ const artists = [
       {t:"После ванны", img:"img/degas-after-the-bath.jpg"},
       {t:"Гладильщицы", img:"img/degas-women-ironing.jpg"},
       {t:"Абсент", img:"img/degas-absinthe.jpg"},
-      {t:"Урок танцев"},
+      {t:"Урок танцев", img:"img/degas-dance-lesson.jpg"},
     ]
   },
   {
@@ -112,10 +112,10 @@ const artists = [
     yrs:"1839 — 1899 · Франция / Англия",
     bio:"Французский живописец-пейзажист английского происхождения; самый последовательный из импрессионистов в стремлении писать пейзажи на открытом воздухе. Известна серия картин Темзы и пейзажи Море-сюр-Луэн.",
     works:[
-      {t:"Опушка леса в Фонтенбло"},
-      {t:"Море-сюр-Луан"},
-      {t:"Station at Sèvres"},
-      {t:"Bridge at Villeneuve-la-Garenne"},
+      {t:"Опушка леса в Фонтенбло", img:"img/sisley-fontainebleau.jpg"},
+      {t:"Море-сюр-Луэн", img:"img/sisley-moret-sur-loing.jpg"},
+      {t:"Станция в Севре", img:"img/sisley-sevres.jpg"},
+      {t:"Мост в Вильнёв-ла-Гарен", img:"img/sisley-villeneuve-bridge.jpg"},
     ]
   },
   {
